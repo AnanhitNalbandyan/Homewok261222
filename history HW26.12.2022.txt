@@ -1,0 +1,7 @@
+   0 nano script.sh
+   1 pwd
+   2 cp /root/script.sh /opt/
+   3 ls -la /opt
+   4 bash /opt/script.sh
+   5 history >> history.txt
+
